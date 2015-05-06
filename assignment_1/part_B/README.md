@@ -1,7 +1,5 @@
-COSC 5P71 Assignment 1#
 ##Part B##
 ##Submitted by: Tim Ribaric##
-##tr13ry@brocku.ca##
 
 ###Additional packages###
 Most of the code is vanilla Python however the following extra packages are required:
@@ -11,7 +9,7 @@ Most of the code is vanilla Python however the following extra packages are requ
 	- matplotlib - Python graphing package (http://matplotlib.org/)
 
 There are some other helper scripts written in bash, they mostly manipulate the data for it can be analyzed for the report
-	
+
 ###Producing the Data###
 
 1. As with part A, `assign1_part_B.py` is where most of the activity is done.  here gp are created and testing against training data and logged, as well as testing of best individual found per run is generated and logged.
