@@ -1,0 +1,6 @@
+[GeneticProgramParams]
+numberGens: 50
+popSize: 200
+probCross: 0.95
+probMutate: 0.05
+tournamentSize: 3

@@ -1,0 +1,115 @@
+
+Training Data Matching Actual Choice
+
+training_seed_1.txt	50.5612244898% accurate
+training_seed_10.txt	53.0102040816% accurate
+training_seed_11.txt	51.5306122449% accurate
+training_seed_12.txt	50.1530612245% accurate
+training_seed_13.txt	50.3571428571% accurate
+training_seed_14.txt	51.8367346939% accurate
+training_seed_15.txt	52.6530612245% accurate
+training_seed_16.txt	52.9591836735% accurate
+training_seed_17.txt	54.5408163265% accurate
+training_seed_18.txt	54.1326530612% accurate
+training_seed_19.txt	50.612244898% accurate
+training_seed_2.txt	51.1224489796% accurate
+training_seed_20.txt	54.5408163265% accurate
+training_seed_3.txt	54.7959183673% accurate
+training_seed_4.txt	51.5306122449% accurate
+training_seed_5.txt	51.9897959184% accurate
+training_seed_6.txt	50.306122449% accurate
+training_seed_7.txt	51.0714285714% accurate
+training_seed_8.txt	53.1632653061% accurate
+training_seed_9.txt	53.9285714286% accurate
+Training Average Average 52.2397959184%
+
+Testing Data Matching Actual Choice
+
+testing_seed_1.txt	49.7619047619% accurate
+testing_seed_10.txt	49.5918367347% accurate
+testing_seed_11.txt	52.5170068027% accurate
+testing_seed_12.txt	50.5782312925% accurate
+testing_seed_13.txt	47.925170068% accurate
+testing_seed_14.txt	50.5102040816% accurate
+testing_seed_15.txt	51.5306122449% accurate
+testing_seed_16.txt	52.619047619% accurate
+testing_seed_17.txt	52.3129251701% accurate
+testing_seed_18.txt	53.7074829932% accurate
+testing_seed_19.txt	50.4421768707% accurate
+testing_seed_2.txt	47.6870748299% accurate
+testing_seed_20.txt	51.1224489796% accurate
+testing_seed_3.txt	49.1836734694% accurate
+testing_seed_4.txt	52.2789115646% accurate
+testing_seed_5.txt	51.4965986395% accurate
+testing_seed_6.txt	50.1700680272% accurate
+testing_seed_7.txt	52.4149659864% accurate
+testing_seed_8.txt	52.5510204082% accurate
+testing_seed_9.txt	51.9047619048% accurate
+Testing Average Average 51.0153061224%
+
+ Training Data Matching 0-5, 6-10
+
+training_seed_1.txt	69.2346938776% accurate
+training_seed_10.txt	68.5714285714% accurate
+training_seed_11.txt	65.3571428571% accurate
+training_seed_12.txt	70.612244898% accurate
+training_seed_13.txt	66.7857142857% accurate
+training_seed_14.txt	69.7959183673% accurate
+training_seed_15.txt	68.7755102041% accurate
+training_seed_16.txt	68.5204081633% accurate
+training_seed_17.txt	67.6020408163% accurate
+training_seed_18.txt	68.4183673469% accurate
+training_seed_19.txt	66.7346938776% accurate
+training_seed_2.txt	69.6428571429% accurate
+training_seed_20.txt	70.1020408163% accurate
+training_seed_3.txt	67.7551020408% accurate
+training_seed_4.txt	67.7040816327% accurate
+training_seed_5.txt	68.4183673469% accurate
+training_seed_6.txt	68.4183673469% accurate
+training_seed_7.txt	66.6326530612% accurate
+training_seed_8.txt	66.7346938776% accurate
+training_seed_9.txt	69.2346938776% accurate
+
+Training Average Average 68.2525510204%
+
+ Testing Data Matching Wider range
+
+testing_seed_1.txt	67.2789115646% accurate
+testing_seed_10.txt	68.4693877551% accurate
+testing_seed_11.txt	67.4149659864% accurate
+testing_seed_12.txt	67.925170068% accurate
+testing_seed_13.txt	67.1088435374% accurate
+testing_seed_14.txt	69.2857142857% accurate
+testing_seed_15.txt	67.8571428571% accurate
+testing_seed_16.txt	69.4217687075% accurate
+testing_seed_17.txt	67.7551020408% accurate
+testing_seed_18.txt	67.7891156463% accurate
+testing_seed_19.txt	67.619047619% accurate
+testing_seed_2.txt	68.5034013605% accurate
+testing_seed_20.txt	67.7551020408% accurate
+testing_seed_3.txt	67.4489795918% accurate
+testing_seed_4.txt	66.6666666667% accurate
+testing_seed_5.txt	67.6870748299% accurate
+testing_seed_6.txt	67.6530612245% accurate
+testing_seed_7.txt	67.5170068027% accurate
+testing_seed_8.txt	66.4285714286% accurate
+testing_seed_9.txt	69.2857142857% accurate
+
+Testing Average Average 67.843537415%
+
+
+Good Bad Confusion Matrix
+
+
+ TP | FN
+ FP | TN
+
+Training_data
+
+34602.0 | 10972.0
+4463.0 | 8743.0
+
+Testing_data
+
+23240.0 | 7048.0
+2855.0 | 6037.0

@@ -1,0 +1,12 @@
+#!/bin/bash
+python trunk_logs.py
+paste ./logs/t1_avg* > t1_AVG_data.txt
+paste ./logs/t1_best* > t1_BEST_data.txt
+paste ./logs/t2_avg* > t2_AVG_data.txt
+paste ./logs/t2_best* > t2_BEST_data.txt
+paste ./logs/t3_avg* > t3_AVG_data.txt
+paste ./logs/t3_best* > t3_BEST_data.txt
+paste ./logs/t4_avg* > t4_AVG_data.txt
+paste ./logs/t4_best* > t4_BEST_data.txt
+rm ./logs/*.txt
+

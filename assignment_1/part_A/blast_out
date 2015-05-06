@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Resetting"
+rm ./logs/*.txt
+rm best_sols.txt
+

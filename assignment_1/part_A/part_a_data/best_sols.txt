@@ -1,0 +1,80 @@
+params: paramSet1 seed: 1fitness: (0.013026102357561926,)
+
+mul(add(x, x), add(x, x))
+
+params: paramSet1 seed: 2fitness: (6.280490653439738e-24,)
+
+add(mul(x, x), add(x, mul(mul(x, add(x, mul(x, x))), x)))
+
+params: paramSet1 seed: 3fitness: (0.013026102357561926,)
+
+mul(add(x, x), add(x, x))
+
+params: paramSet1 seed: 4fitness: (0.013026102357561926,)
+
+mul(add(x, x), add(x, x))
+
+params: paramSet1 seed: 5fitness: (6.280490653439738e-24,)
+
+add(add(mul(mul(x, add(mul(x, x), x)), x), x), mul(x, x))
+
+params: paramSet1 seed: 6fitness: (6.2806167658362054e-24,)
+
+add(add(mul(x, x), mul(mul(x, add(mul(x, x), x)), x)), x)
+
+params: paramSet1 seed: 7fitness: (6.280490653439738e-24,)
+
+add(mul(x, x), add(x, mul(x, mul(x, add(mul(x, x), x)))))
+
+params: paramSet1 seed: 8fitness: (6.280490653439738e-24,)
+
+add(mul(x, x), add(x, mul(x, mul(x, add(mul(x, x), x)))))
+
+params: paramSet1 seed: 9fitness: (6.280589910052764e-24,)
+
+add(mul(add(add(x, mul(mul(x, x), x)), mul(x, x)), x), x)
+
+params: paramSet1 seed: 10fitness: (0.013026102357561926,)
+
+mul(add(x, x), add(x, x))
+
+params: paramSet2 seed: 1fitness: (6.280490653439738e-24,)
+
+add(mul(x, x), add(x, mul(mul(x, add(x, mul(x, x))), x)))
+
+params: paramSet2 seed: 2fitness: (6.280490653439738e-24,)
+
+add(add(mul(x, mul(add(mul(x, x), x), x)), x), mul(x, x))
+
+params: paramSet2 seed: 3fitness: (0.005600308692615832,)
+
+mul(add(add(x, mul(x, x)), add(x, x)), x)
+
+params: paramSet2 seed: 4fitness: (6.280564387937289e-24,)
+
+add(x, mul(x, add(x, mul(mul(x, x), add(mul(x, protectedDiv(mul(x, protectedDiv(mul(mul(x, protectedDiv(x, x)), x), mul(mul(x, protectedDiv(mul(x, x), x)), x))), x)), x)))))
+
+params: paramSet2 seed: 5fitness: (6.280468538217298e-24,)
+
+add(add(x, mul(x, mul(add(mul(x, mul(protectedDiv(mul(x, x), mul(x, mul(mul(x, x), x))), mul(x, x))), mul(x, x)), x))), mul(x, x))
+
+params: paramSet2 seed: 6fitness: (6.280490653439738e-24,)
+
+add(add(x, mul(x, mul(x, add(mul(x, x), x)))), mul(x, x))
+
+params: paramSet2 seed: 7fitness: (6.280469516086561e-24,)
+
+add(mul(x, mul(add(x, x), x)), add(mul(add(x, mul(sub(add(mul(x, x), sub(x, x)), x), x)), x), x))
+
+params: paramSet2 seed: 8fitness: (6.280643062570333e-24,)
+
+add(add(x, mul(x, x)), mul(x, mul(add(add(mul(x, x), sub(x, x)), x), x)))
+
+params: paramSet2 seed: 9fitness: (0.004027446133194011,)
+
+mul(add(add(protectedDiv(x, x), mul(add(x, x), x)), x), x)
+
+params: paramSet2 seed: 10fitness: (0.004027446133194011,)
+
+mul(x, add(x, add(mul(add(x, x), x), protectedDiv(x, x))))
+

@@ -1,0 +1,21 @@
+[PointGen]
+pointSeed: 1337
+quad1Percent: 20
+quad2Percent: 20
+quad3Percent: 20
+quad4Percent: 20
+
+[textureFiles]
+texture1: brodatz/D107.png 
+texture2: brodatz/D108.png
+texture3: brodatz/D109.png
+texture4: brodatz/D110.png
+
+[GeneticProgramParams]
+numberGens: 50
+popSize: 100
+probCross: 0.90
+probMutate: 0.1
+tournamentSize: 4
+
+

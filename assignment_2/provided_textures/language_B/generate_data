@@ -1,0 +1,32 @@
+#!/bin/bash
+./blast_out
+
+echo "Generating Training Points and Pre Calculating Filters"
+python pregenerate_data.py
+ 
+echo "Ten Runs for each of the 4 textures"
+
+echo "Texture 1"
+ for i in {1..10}
+ do
+ 		echo "Run "$i
+ 		python assign_2.py paramset.txt 1 $i
+done
+echo "Texture 2"
+ for i in {1..10}
+ do
+ 		echo "Run "$i
+ 		python assign_2.py paramset.txt 2 $i
+done
+echo "Texture 3"
+ for i in {1..10}
+ do
+ 		echo "Run "$i
+ 		python assign_2.py paramset.txt 3 $i
+done
+echo "Texture 4"
+ for i in {1..10}
+ do
+ 		echo "Run "$i
+ 		python assign_2.py paramset.txt 4 $i
+done

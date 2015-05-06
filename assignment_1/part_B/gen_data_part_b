@@ -1,0 +1,11 @@
+#!/bin/bash
+./blast_out
+echo "Analyzing Wine Data"
+ for i in {1..20}
+ do
+ 		echo "Run "$i
+ 		python assign1_part_B.py paramSet winequality-red.csv $i
+done
+
+./generate_analysis_data
+

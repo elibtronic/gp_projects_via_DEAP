@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Creating Folders"
+mkdir filter_values
+mkdir gp_found
+mkdir logs
+mkdir training_points
+mkdir images
+mkdir testing
+mkdir confusion

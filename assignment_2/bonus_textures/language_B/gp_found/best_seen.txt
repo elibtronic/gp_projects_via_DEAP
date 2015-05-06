@@ -1,0 +1,160 @@
+texture: 1 seed: 1 fitness: (11755.0,)
+
+minFValue(mul(mul(sub(min3, min7), avg3), sub(neg(sub(avg9, mul(min5, min5))), neg(sub(min7, neg(avg3))))), sub(avg9, mul(sub(neg(sub(avg9, mul(sub(avg3, min7), min5))), min7), min5)))
+
+texture: 1 seed: 2 fitness: (11725.0,)
+
+mul(mul(min5, sub(std3, sub(sub(avg11, add(max9, sub(sub(sub(maxFValue(max9, avg3), sub(std11, add(avg3, maxFValue(max7, min5)))), sub(min3, avg9)), min5))), min5))), sub(min11, avg3))
+
+texture: 1 seed: 3 fitness: (8031.0,)
+
+sub(protectedDiv(add(add(protectedDiv(add(std11, std11), protectedDiv(max3, min3)), std11), std11), maxFValue(protectedDiv(max3, min3), protectedDiv(add(add(std11, avg7), avg7), maxFValue(protectedDiv(maxFValue(maxFValue(protectedDiv(add(std11, add(add(protectedDiv(add(std11, std11), protectedDiv(max3, min3)), std11), std11)), protectedDiv(maxFValue(add(-0.012102442301344274, maxFValue(maxFValue(maxFValue(max3, std5), std5), std5)), protectedDiv(maxFValue(max5, min3), maxFValue(maxFValue(std5, std11), -0.012102442301344274))), min3)), 0.5713815982822286), min3), maxFValue(maxFValue(min9, std5), std5)), min3)))), maxFValue(min3, protectedDiv(add(add(std11, max3), avg7), maxFValue(protectedDiv(maxFValue(maxFValue(protectedDiv(maxFValue(std11, std5), protectedDiv(std11, min3)), 0.5713815982822286), min3), maxFValue(maxFValue(max3, std5), std5)), min3))))
+
+texture: 1 seed: 4 fitness: (10053.0,)
+
+add(neg(add(protectedDiv(std7, max5), add(protectedDiv(std11, protectedDiv(neg(add(protectedDiv(std11, protectedDiv(min3, protectedDiv(std11, neg(min3)))), min5)), protectedDiv(std11, neg(min5)))), min5))), neg(add(protectedDiv(std11, protectedDiv(avg7, protectedDiv(protectedDiv(std11, protectedDiv(neg(max5), neg(min5))), neg(min5)))), min5)))
+
+texture: 1 seed: 5 fitness: (11497.0,)
+
+sub(std11, maxFValue(maxFValue(maxFValue(min5, add(avg9, min3)), add(max5, avg9)), minFValue(min5, add(maxFValue(max7, std9), std11))))
+
+texture: 1 seed: 6 fitness: (12560.0,)
+
+neg(mul(sub(maxFValue(maxFValue(max3, maxFValue(mul(sub(maxFValue(avg3, neg(max3)), protectedDiv(std5, avg3)), maxFValue(avg3, maxFValue(avg3, std9))), neg(maxFValue(mul(sub(maxFValue(avg3, neg(max3)), maxFValue(max9, max9)), min5), maxFValue(avg3, sub(sub(max9, max9), max3)))))), maxFValue(max5, minFValue(std11, avg7))), max5), mul(mul(sub(maxFValue(avg3, neg(max3)), maxFValue(max9, max9)), min5), sub(maxFValue(max5, maxFValue(maxFValue(max5, mul(min5, sub(maxFValue(max5, maxFValue(maxFValue(max5, maxFValue(mul(sub(maxFValue(avg3, neg(max3)), maxFValue(max9, max9)), min5), avg9)), max9)), maxFValue(neg(std9), add(protectedDiv(mul(sub(maxFValue(avg3, neg(max3)), maxFValue(max9, max9)), min5), std7), maxFValue(max9, std9)))))), max9)), maxFValue(neg(std9), add(protectedDiv(mul(sub(maxFValue(avg3, neg(max3)), maxFValue(max9, max9)), min5), std7), maxFValue(max9, std9)))))))
+
+texture: 1 seed: 7 fitness: (8031.0,)
+
+sub(protectedDiv(add(add(protectedDiv(add(std11, std11), protectedDiv(max3, min3)), std11), std11), maxFValue(protectedDiv(max3, min3), protectedDiv(add(add(std11, avg7), avg7), maxFValue(protectedDiv(maxFValue(maxFValue(protectedDiv(add(std11, add(add(protectedDiv(add(std11, std11), protectedDiv(max3, min3)), std11), std11)), protectedDiv(maxFValue(add(-0.012102442301344274, maxFValue(maxFValue(maxFValue(max3, std5), std5), std5)), protectedDiv(maxFValue(max5, min3), maxFValue(maxFValue(std5, std11), -0.012102442301344274))), min3)), 0.5713815982822286), min3), maxFValue(maxFValue(min9, std5), std5)), min3)))), maxFValue(min3, protectedDiv(add(add(std11, max3), avg7), maxFValue(protectedDiv(maxFValue(maxFValue(protectedDiv(maxFValue(std11, std5), protectedDiv(std11, min3)), 0.5713815982822286), min3), maxFValue(maxFValue(max3, std5), std5)), min3))))
+
+texture: 1 seed: 8 fitness: (7844.0,)
+
+sub(sub(maxFValue(sub(std11, avg3), maxFValue(sub(maxFValue(maxFValue(sub(avg5, avg3), avg3), maxFValue(maxFValue(sub(maxFValue(sub(maxFValue(sub(sub(avg5, avg3), avg3), sub(maxFValue(avg3, avg3), std7)), avg3), sub(sub(max7, avg3), max3)), max7), avg3), sub(std11, sub(sub(sub(avg11, std11), neg(max9)), avg3)))), max7), sub(std11, max7))), maxFValue(max3, min3)), maxFValue(avg9, avg3))
+
+texture: 1 seed: 9 fitness: (11898.0,)
+
+neg(protectedDiv(maxFValue(min5, minFValue(std9, protectedDiv(protectedDiv(protectedDiv(minFValue(sub(minFValue(max3, add(std11, min3)), mul(std9, minFValue(sub(minFValue(max3, max5), mul(min3, std5)), min5))), min5), protectedDiv(std9, max5)), std5), add(sub(max11, max5), protectedDiv(add(sub(min9, std11), mul(avg5, 0.12469562499006481)), max5))))), protectedDiv(std9, minFValue(protectedDiv(maxFValue(add(sub(max11, max3), protectedDiv(std9, max5)), add(avg5, min7)), protectedDiv(std9, max5)), minFValue(protectedDiv(min3, protectedDiv(std9, max5)), minFValue(max5, std5))))))
+
+texture: 1 seed: 10 fitness: (9411.0,)
+
+sub(minFValue(minFValue(maxFValue(maxFValue(sub(minFValue(std9, min3), maxFValue(maxFValue(max5, sub(avg9, sub(minFValue(std9, minFValue(std11, min3)), min7))), minFValue(avg9, min5))), min5), neg(sub(minFValue(min7, min3), min7))), min5), min5), maxFValue(max5, sub(maxFValue(maxFValue(max5, sub(minFValue(max5, min3), sub(minFValue(std9, min3), sub(max5, sub(minFValue(minFValue(std9, min3), min3), max5))))), minFValue(min3, std5)), sub(minFValue(std9, min3), maxFValue(min3, sub(max5, sub(std9, sub(maxFValue(min3, minFValue(maxFValue(avg3, min5), mul(min5, std9))), min7))))))))
+
+texture: 2 seed: 1 fitness: (6495.0,)
+
+sub(sub(max7, maxFValue(std5, mul(maxFValue(std5, sub(max7, std5)), mul(std5, maxFValue(sub(std11, min3), sub(max7, min3)))))), maxFValue(sub(std11, maxFValue(avg7, max7)), sub(maxFValue(std5, add(max9, minFValue(std11, sub(maxFValue(std5, mul(mul(sub(max7, minFValue(std5, sub(std11, min3))), sub(std11, min3)), minFValue(std5, sub(std5, sub(max7, std5))))), maxFValue(sub(std11, max9), sub(max7, std5)))))), min3)))
+
+texture: 2 seed: 2 fitness: (6086.0,)
+
+sub(neg(minFValue(sub(add(add(sub(add(add(sub(std5, neg(minFValue(neg(minFValue(avg7, sub(min11, min11))), sub(min11, neg(sub(std5, min3)))))), sub(add(std7, maxFValue(min9, std3)), neg(minFValue(avg7, sub(std11, min3))))), sub(min11, neg(sub(std5, min3)))), neg(minFValue(avg7, sub(min11, neg(sub(minFValue(maxFValue(std5, min11), avg9), min3)))))), sub(add(min3, sub(min11, neg(sub(std5, min3)))), neg(minFValue(neg(sub(std5, min3)), minFValue(neg(sub(std5, min3)), sub(min11, neg(sub(std5, min3)))))))), sub(add(std7, minFValue(mul(max5, min7), sub(-0.16592628608572668, avg9))), neg(minFValue(avg7, sub(std11, min3))))), min3), sub(add(add(sub(add(add(sub(std5, neg(minFValue(neg(minFValue(avg7, sub(min11, min11))), sub(min11, neg(sub(std5, min3)))))), sub(add(std7, maxFValue(min9, std3)), neg(minFValue(avg7, sub(std11, min3))))), sub(min11, neg(sub(std5, min3)))), neg(minFValue(avg7, sub(min11, neg(sub(minFValue(maxFValue(std5, min11), avg9), min3)))))), sub(sub(maxFValue(min9, std3), neg(sub(std5, min3))), neg(minFValue(neg(sub(std5, min3)), sub(std11, min3))))), sub(add(maxFValue(min9, std3), minFValue(mul(max5, min7), sub(-0.16592628608572668, avg9))), neg(minFValue(avg7, sub(std11, min3))))), min3))), std11)
+
+texture: 2 seed: 3 fitness: (8672.0,)
+
+sub(max5, maxFValue(maxFValue(std9, sub(maxFValue(std9, add(maxFValue(maxFValue(avg5, sub(maxFValue(neg(avg3), sub(neg(std11), maxFValue(maxFValue(std9, std9), std9))), maxFValue(maxFValue(std9, sub(-0.49775544363305957, min9)), add(maxFValue(add(neg(avg3), avg3), sub(-0.49775544363305957, min9)), std9)))), add(neg(avg3), maxFValue(std11, sub(neg(avg3), -0.05947298495510411)))), std9)), maxFValue(add(minFValue(min11, max5), minFValue(min3, avg9)), maxFValue(std11, sub(neg(-0.49775544363305957), -0.05947298495510411))))), std9))
+
+texture: 2 seed: 4 fitness: (6417.0,)
+
+sub(sub(sub(min3, std11), sub(std11, min3)), std3)
+
+texture: 2 seed: 5 fitness: (7693.0,)
+
+sub(add(min3, min9), add(std9, std11))
+
+texture: 2 seed: 6 fitness: (6768.0,)
+
+sub(add(protectedDiv(protectedDiv(avg9, protectedDiv(min3, minFValue(avg11, std9))), min11), add(protectedDiv(std11, min11), sub(min3, std11))), std9)
+
+texture: 2 seed: 7 fitness: (6626.0,)
+
+sub(sub(sub(sub(minFValue(min3, avg5), sub(std11, minFValue(minFValue(minFValue(std11, std11), max5), std11))), std11), minFValue(protectedDiv(std11, std11), max5)), minFValue(min11, max5))
+
+texture: 2 seed: 8 fitness: (6114.0,)
+
+sub(sub(min3, std11), add(min9, add(std7, neg(minFValue(minFValue(max3, maxFValue(add(std7, neg(std7)), maxFValue(min3, std5))), maxFValue(add(std7, neg(std7)), maxFValue(min3, std5)))))))
+
+texture: 2 seed: 9 fitness: (6032.0,)
+
+sub(add(sub(add(mul(protectedDiv(avg11, std7), -0.3946050326285695), sub(add(mul(protectedDiv(avg11, std7), -0.3946050326285695), sub(minFValue(max3, min3), -0.3946050326285695)), -0.3946050326285695)), mul(add(mul(protectedDiv(avg11, std7), -0.3946050326285695), sub(minFValue(max3, min3), -0.3946050326285695)), -0.3946050326285695)), sub(minFValue(maxFValue(protectedDiv(avg11, add(sub(max3, avg11), add(std9, add(protectedDiv(add(add(std9, min3), sub(sub(max3, avg11), -0.3946050326285695)), std9), std9)))), min3), minFValue(maxFValue(add(protectedDiv(add(add(sub(max3, avg11), add(sub(max3, avg11), sub(minFValue(maxFValue(protectedDiv(max3, add(std9, min3)), min3), max3), mul(max11, -0.3946050326285695)))), add(add(protectedDiv(max5, avg11), std11), std11)), std9), std9), min3), add(mul(protectedDiv(maxFValue(protectedDiv(avg11, add(sub(add(add(protectedDiv(max5, avg11), std11), std11), avg11), add(std9, add(protectedDiv(add(add(std9, min3), sub(sub(max3, avg11), -0.3946050326285695)), std9), std9)))), min3), std7), -0.3946050326285695), sub(minFValue(max3, min3), -0.3946050326285695)))), mul(add(std9, add(protectedDiv(add(std9, std11), std9), std11)), -0.3946050326285695))), add(add(std9, min7), add(std9, add(protectedDiv(add(maxFValue(protectedDiv(avg11, add(sub(sub(maxFValue(-0.3946050326285695, min3), mul(protectedDiv(min7, std7), -0.3946050326285695)), max3), std9)), max3), std11), std9), std11))))
+
+texture: 2 seed: 10 fitness: (6862.0,)
+
+mul(sub(sub(min3, maxFValue(std11, mul(protectedDiv(max3, max5), protectedDiv(avg3, std5)))), std5), maxFValue(maxFValue(std7, protectedDiv(sub(sub(min3, maxFValue(std11, std11)), sub(min3, maxFValue(std11, std11))), protectedDiv(mul(std7, sub(std5, std5)), maxFValue(std11, std11)))), minFValue(avg3, avg3)))
+
+texture: 3 seed: 1 fitness: (2832.0,)
+
+minFValue(add(sub(std7, avg9), add(minFValue(std3, add(minFValue(std3, add(add(sub(std7, avg3), add(sub(std7, avg9), add(minFValue(std3, min9), sub(std7, avg9)))), std7)), std7)), protectedDiv(add(avg9, min9), minFValue(add(sub(std7, avg9), add(minFValue(std3, add(minFValue(std3, add(add(sub(std7, avg3), std11), std7)), std7)), protectedDiv(add(add(protectedDiv(sub(min3, std3), std9), min9), min9), minFValue(min3, avg9)))), add(add(sub(std7, avg9), add(protectedDiv(sub(neg(avg3), avg9), std9), min9)), add(minFValue(std3, min9), protectedDiv(minFValue(std3, avg9), std7))))))), sub(min3, std3))
+
+texture: 3 seed: 2 fitness: (4279.0,)
+
+mul(min3, neg(minFValue(min3, minFValue(minFValue(protectedDiv(avg7, add(protectedDiv(min3, avg7), add(max9, minFValue(minFValue(max9, min3), std3)))), protectedDiv(avg7, add(protectedDiv(std5, neg(minFValue(std5, minFValue(min3, add(0.7951011288161856, std3))))), add(minFValue(minFValue(std5, minFValue(add(protectedDiv(std5, neg(minFValue(std5, minFValue(min3, avg7)))), add(minFValue(minFValue(std5, minFValue(min3, std3)), minFValue(min3, std3)), minFValue(std5, minFValue(min3, std5)))), std5)), avg7), minFValue(std5, minFValue(min3, std5)))))), minFValue(minFValue(add(protectedDiv(avg5, min3), add(max9, minFValue(std5, minFValue(min3, std3)))), protectedDiv(avg7, add(protectedDiv(avg5, min3), add(max9, minFValue(std5, minFValue(min3, std3)))))), min3)))))
+
+texture: 3 seed: 3 fitness: (6830.0,)
+
+sub(min3, minFValue(avg3, mul(mul(min3, minFValue(0.14484458110625575, mul(minFValue(0.14484458110625575, mul(mul(mul(minFValue(0.14484458110625575, 0.14484458110625575), min3), mul(minFValue(0.14484458110625575, mul(minFValue(0.14484458110625575, min3), min3)), min3)), minFValue(min3, mul(mul(mul(minFValue(avg7, std7), min3), mul(minFValue(mul(mul(minFValue(0.14484458110625575, min3), min3), min3), min3), min3)), minFValue(minFValue(0.14484458110625575, 0.14484458110625575), min3))))), min3))), minFValue(minFValue(avg5, minFValue(avg5, mul(minFValue(min3, mul(mul(minFValue(0.14484458110625575, min3), mul(mul(mul(minFValue(0.14484458110625575, 0.14484458110625575), min3), mul(minFValue(0.14484458110625575, mul(minFValue(0.14484458110625575, min3), min3)), min3)), minFValue(0.14484458110625575, mul(minFValue(0.14484458110625575, min3), min3)))), minFValue(avg5, mul(protectedDiv(max3, min3), min3)))), min3))), avg11))))
+
+texture: 3 seed: 4 fitness: (7256.0,)
+
+protectedDiv(add(mul(maxFValue(maxFValue(min3, min3), protectedDiv(min3, min3)), add(mul(maxFValue(neg(max3), maxFValue(min3, protectedDiv(max3, min3))), neg(min3)), min7)), avg3), protectedDiv(max3, min3))
+
+texture: 3 seed: 5 fitness: (5066.0,)
+
+neg(sub(add(sub(add(avg7, avg3), add(max7, maxFValue(sub(std11, sub(add(sub(add(sub(add(std7, maxFValue(sub(std11, std7), maxFValue(min3, maxFValue(std7, maxFValue(max9, std7))))), add(min3, maxFValue(sub(max7, add(avg7, add(min3, std7))), std7))), avg11), maxFValue(sub(std11, std7), maxFValue(sub(add(avg11, sub(avg3, min11)), add(min3, add(min3, std7))), maxFValue(std7, maxFValue(max9, avg11))))), add(sub(add(add(sub(add(avg11, sub(avg3, min11)), add(min3, add(min3, std7))), avg11), max9), avg11), avg11)), add(min3, std7))), avg7))), avg11), add(max9, std7)))
+
+texture: 3 seed: 6 fitness: (8982.0,)
+
+sub(maxFValue(maxFValue(maxFValue(maxFValue(maxFValue(std9, maxFValue(std5, maxFValue(std7, maxFValue(std11, maxFValue(std9, std9))))), std3), std7), std9), maxFValue(std5, maxFValue(protectedDiv(sub(maxFValue(std9, std9), avg11), std7), maxFValue(std11, std9)))), avg11)
+
+texture: 3 seed: 7 fitness: (8602.0,)
+
+minFValue(sub(min3, avg9), sub(maxFValue(maxFValue(std5, protectedDiv(min3, max3)), neg(minFValue(min3, max3))), mul(protectedDiv(minFValue(avg3, minFValue(min3, max3)), maxFValue(protectedDiv(mul(protectedDiv(avg3, sub(minFValue(max3, sub(maxFValue(avg11, max7), neg(std11))), minFValue(protectedDiv(avg3, sub(minFValue(avg3, sub(std5, neg(std11))), minFValue(0.22237523652911073, avg3))), avg5))), avg5), avg9), maxFValue(maxFValue(minFValue(std5, max3), min3), min3))), avg5)))
+
+texture: 3 seed: 8 fitness: (4320.0,)
+
+sub(minFValue(maxFValue(add(min3, add(min3, max11)), minFValue(maxFValue(add(min3, maxFValue(max11, max11)), add(add(max3, max3), minFValue(std7, maxFValue(max11, max11)))), maxFValue(add(minFValue(std7, maxFValue(add(minFValue(std7, maxFValue(avg9, max11)), max11), max7)), max11), max11))), maxFValue(add(minFValue(std7, maxFValue(add(minFValue(std7, maxFValue(avg9, add(add(min3, std7), add(minFValue(std7, maxFValue(max11, add(add(min3, max11), minFValue(avg3, add(max3, max11))))), max11)))), max11), max7)), minFValue(std7, maxFValue(max11, max11))), max11)), avg9)
+
+texture: 3 seed: 9 fitness: (4225.0,)
+
+mul(sub(minFValue(maxFValue(maxFValue(minFValue(avg11, max3), mul(sub(std9, min3), min3)), avg11), min3), sub(max3, minFValue(sub(minFValue(mul(avg3, min3), min3), sub(avg11, sub(std9, add(mul(0.5575261853090983, avg9), protectedDiv(max11, min7))))), protectedDiv(add(avg3, protectedDiv(max11, min7)), sub(min3, mul(avg3, add(min3, avg3))))))), minFValue(minFValue(sub(avg11, sub(std9, min3)), avg9), minFValue(maxFValue(protectedDiv(add(mul(0.5575261853090983, avg9), protectedDiv(max11, min7)), sub(min3, sub(min3, min3))), std9), min3)))
+
+texture: 3 seed: 10 fitness: (3084.0,)
+
+neg(protectedDiv(avg11, sub(sub(maxFValue(protectedDiv(avg7, avg7), maxFValue(sub(maxFValue(protectedDiv(avg7, avg7), maxFValue(maxFValue(maxFValue(sub(min3, std11), sub(maxFValue(maxFValue(std7, sub(maxFValue(protectedDiv(avg7, avg7), std11), sub(maxFValue(min3, std3), std3))), std3), sub(maxFValue(min3, std3), min3))), sub(maxFValue(std7, std3), maxFValue(min3, std3))), std3)), sub(maxFValue(min3, std3), std3)), std3)), sub(maxFValue(min3, std3), min3)), protectedDiv(avg7, add(avg9, avg11)))))
+
+texture: 4 seed: 1 fitness: (12974.0,)
+
+neg(minFValue(minFValue(minFValue(minFValue(maxFValue(protectedDiv(max11, std3), minFValue(std9, max11)), maxFValue(max3, sub(max11, min3))), max3), std9), max5))
+
+texture: 4 seed: 2 fitness: (6032.0,)
+
+neg(minFValue(minFValue(min11, minFValue(minFValue(minFValue(minFValue(max3, maxFValue(sub(min3, std5), sub(std11, max3))), minFValue(minFValue(maxFValue(sub(sub(min3, std5), minFValue(max11, minFValue(sub(std11, sub(min3, std11)), min11))), sub(std11, max5)), min11), minFValue(max11, minFValue(max3, max11)))), minFValue(max3, minFValue(minFValue(maxFValue(sub(min3, std11), sub(std11, max3)), minFValue(max11, minFValue(max3, min7))), minFValue(max11, minFValue(std11, maxFValue(minFValue(minFValue(max3, minFValue(max3, min5)), minFValue(minFValue(minFValue(max11, minFValue(min11, min11)), minFValue(minFValue(min11, max11), minFValue(max3, minFValue(min9, max3)))), minFValue(max11, minFValue(max3, max11)))), sub(std11, max3))))))), max11)), minFValue(max3, min11)))
+
+texture: 4 seed: 3 fitness: (11838.0,)
+
+sub(avg11, add(std11, std5))
+
+texture: 4 seed: 4 fitness: (9243.0,)
+
+neg(add(min11, mul(min11, mul(sub(min3, max5), add(mul(sub(min3, min11), min11), mul(min11, mul(mul(min11, mul(mul(min11, sub(min3, max7)), min3)), sub(sub(add(min11, mul(min11, add(add(min11, mul(min11, mul(min11, mul(sub(min3, max7), sub(avg7, min11))))), mul(min11, mul(min11, sub(mul(max11, min11), sub(min3, max7))))))), min11), min11))))))))
+
+texture: 4 seed: 5 fitness: (12935.0,)
+
+neg(minFValue(min11, sub(mul(max11, max11), protectedDiv(min3, min11))))
+
+texture: 4 seed: 6 fitness: (12976.0,)
+
+neg(minFValue(min11, minFValue(mul(0.5008451108662451, min5), maxFValue(avg3, 0.6531511702239552))))
+
+texture: 4 seed: 7 fitness: (11131.0,)
+
+mul(neg(sub(protectedDiv(avg11, max11), add(neg(protectedDiv(protectedDiv(min5, std11), neg(protectedDiv(max9, min11)))), min9))), protectedDiv(max11, protectedDiv(neg(protectedDiv(max5, protectedDiv(max5, protectedDiv(max5, protectedDiv(neg(protectedDiv(protectedDiv(minFValue(minFValue(min11, avg3), std11), protectedDiv(min5, std11)), minFValue(minFValue(min11, avg3), avg3))), max11))))), max11)))
+
+texture: 4 seed: 8 fitness: (12880.0,)
+
+neg(mul(protectedDiv(minFValue(min5, min11), protectedDiv(std5, min11)), minFValue(avg7, std7)))
+
+texture: 4 seed: 9 fitness: (6955.0,)
+
+sub(sub(max3, maxFValue(min3, maxFValue(maxFValue(maxFValue(sub(max3, maxFValue(maxFValue(maxFValue(max11, sub(min3, min3)), min11), maxFValue(maxFValue(neg(sub(std11, avg3)), protectedDiv(maxFValue(min11, std5), avg9)), maxFValue(min11, 0.9596174630619729)))), sub(maxFValue(min3, protectedDiv(maxFValue(min11, min11), avg9)), min3)), min11), min11))), maxFValue(maxFValue(sub(max3, maxFValue(maxFValue(maxFValue(max11, sub(maxFValue(min11, maxFValue(min11, min11)), min3)), min11), maxFValue(maxFValue(neg(sub(std11, avg3)), protectedDiv(maxFValue(sub(max9, min3), maxFValue(min11, maxFValue(max11, sub(maxFValue(min11, min11), min3)))), std5)), maxFValue(min11, 0.9596174630619729)))), maxFValue(min11, maxFValue(maxFValue(sub(max3, maxFValue(maxFValue(maxFValue(max11, sub(maxFValue(min11, maxFValue(min11, min11)), min3)), min11), maxFValue(maxFValue(neg(sub(std11, avg3)), protectedDiv(maxFValue(sub(min3, min11), maxFValue(min11, min11)), std5)), maxFValue(min11, 0.9596174630619729)))), maxFValue(min11, maxFValue(0.9596174630619729, min11))), 0.9596174630619729))), min11))
+
+texture: 4 seed: 10 fitness: (12103.0,)
+
+sub(avg9, add(max3, std9))
+

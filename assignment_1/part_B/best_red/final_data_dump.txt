@@ -1,0 +1,115 @@
+
+Training Data Matching Actual Choice
+
+training_seed_1.txt	60.9375% accurate
+training_seed_10.txt	57.96875% accurate
+training_seed_11.txt	59.84375% accurate
+training_seed_12.txt	56.71875% accurate
+training_seed_13.txt	57.5% accurate
+training_seed_14.txt	60.78125% accurate
+training_seed_15.txt	58.4375% accurate
+training_seed_16.txt	56.09375% accurate
+training_seed_17.txt	58.125% accurate
+training_seed_18.txt	60.0% accurate
+training_seed_19.txt	66.5625% accurate
+training_seed_2.txt	56.71875% accurate
+training_seed_20.txt	58.28125% accurate
+training_seed_3.txt	57.1875% accurate
+training_seed_4.txt	56.71875% accurate
+training_seed_5.txt	58.28125% accurate
+training_seed_6.txt	55.46875% accurate
+training_seed_7.txt	59.84375% accurate
+training_seed_8.txt	61.5625% accurate
+training_seed_9.txt	65.9375% accurate
+Training Average Average 59.1484375%
+
+Testing Data Matching Actual Choice
+
+testing_seed_1.txt	55.6711758585% accurate
+testing_seed_10.txt	59.8335067638% accurate
+testing_seed_11.txt	54.4224765869% accurate
+testing_seed_12.txt	56.7117585848% accurate
+testing_seed_13.txt	60.0416233091% accurate
+testing_seed_14.txt	58.1685744017% accurate
+testing_seed_15.txt	56.1914672216% accurate
+testing_seed_16.txt	52.0291363163% accurate
+testing_seed_17.txt	60.353798127% accurate
+testing_seed_18.txt	57.7523413111% accurate
+testing_seed_19.txt	54.6305931322% accurate
+testing_seed_2.txt	53.4859521332% accurate
+testing_seed_20.txt	57.6482830385% accurate
+testing_seed_3.txt	56.087408949% accurate
+testing_seed_4.txt	58.1685744017% accurate
+testing_seed_5.txt	60.2497398543% accurate
+testing_seed_6.txt	58.7929240375% accurate
+testing_seed_7.txt	55.8792924037% accurate
+testing_seed_8.txt	55.7752341311% accurate
+testing_seed_9.txt	56.6077003122% accurate
+Testing Average Average 56.9250780437%
+
+ Training Data Matching 0-5, 6-10
+
+training_seed_1.txt	59.0625% accurate
+training_seed_10.txt	62.5% accurate
+training_seed_11.txt	57.34375% accurate
+training_seed_12.txt	56.71875% accurate
+training_seed_13.txt	58.90625% accurate
+training_seed_14.txt	58.125% accurate
+training_seed_15.txt	57.8125% accurate
+training_seed_16.txt	55.0% accurate
+training_seed_17.txt	59.84375% accurate
+training_seed_18.txt	60.625% accurate
+training_seed_19.txt	64.84375% accurate
+training_seed_2.txt	58.75% accurate
+training_seed_20.txt	58.4375% accurate
+training_seed_3.txt	60.46875% accurate
+training_seed_4.txt	57.96875% accurate
+training_seed_5.txt	55.9375% accurate
+training_seed_6.txt	57.5% accurate
+training_seed_7.txt	60.78125% accurate
+training_seed_8.txt	57.96875% accurate
+training_seed_9.txt	58.4375% accurate
+
+Training Average Average 58.8515625%
+
+ Testing Data Matching Wider range
+
+testing_seed_1.txt	59.4172736733% accurate
+testing_seed_10.txt	55.9833506764% accurate
+testing_seed_11.txt	56.5036420395% accurate
+testing_seed_12.txt	57.6482830385% accurate
+testing_seed_13.txt	54.110301769% accurate
+testing_seed_14.txt	55.1508844953% accurate
+testing_seed_15.txt	57.232049948% accurate
+testing_seed_16.txt	56.6077003122% accurate
+testing_seed_17.txt	55.4630593132% accurate
+testing_seed_18.txt	60.353798127% accurate
+testing_seed_19.txt	63.8917793965% accurate
+testing_seed_2.txt	53.2778355879% accurate
+testing_seed_20.txt	52.0291363163% accurate
+testing_seed_3.txt	60.8740894901% accurate
+testing_seed_4.txt	60.5619146722% accurate
+testing_seed_5.txt	57.0239334027% accurate
+testing_seed_6.txt	52.6534859521% accurate
+testing_seed_7.txt	60.8740894901% accurate
+testing_seed_8.txt	58.7929240375% accurate
+testing_seed_9.txt	58.4807492196% accurate
+
+Testing Average Average 57.3465140479%
+
+
+Good Bad Confusion Matrix
+
+
+ TP | FN
+ FP | TN
+
+Training_data
+
+7636.0 | 2734.0
+2591.0 | 6239.0
+
+Testing_data
+
+5255.0 | 1681.0
+1618.0 | 4226.0

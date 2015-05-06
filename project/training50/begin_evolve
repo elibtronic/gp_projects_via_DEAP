@@ -1,0 +1,15 @@
+#!/bin/bash
+rm ./logs/*.txt
+rm ./logs/*.csv
+
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 1337
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 6407
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 2018
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 4545
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 6774
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 5329
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 3827
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 4242
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 9863
+python shadow_additional.py paramSet SHADOW_ECONOMIES.csv 7639
+

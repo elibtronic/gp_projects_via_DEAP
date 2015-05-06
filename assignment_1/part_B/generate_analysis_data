@@ -1,0 +1,9 @@
+#!/bin/bash
+cat data/training/*.txt > confusion_matrix_testing.csv
+cat data/testing/*.txt > confusion_matrix_training.csv
+
+python review_test_match_value.py
+python review_test_good_bad.py
+
+python review_confusion_categories_good_bad.py
+

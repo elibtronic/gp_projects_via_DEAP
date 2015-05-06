@@ -1,0 +1,10 @@
+[GeneticProgramParams]
+numberGens: 200
+popSize: 500
+probCross: 0.90
+probMutate: 0.1
+tournamentSize: 8
+treeMin: 2
+treeMax: 10
+training_percent: 40
+

@@ -1,0 +1,6 @@
+#!/bin/bash
+python trunk_logs.py
+paste ./logs/A* > AVG_data.txt
+paste ./logs/B* > BEST_data.txt
+rm ./logs/A*
+rm ./logs/B*

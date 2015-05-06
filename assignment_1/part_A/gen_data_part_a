@@ -1,0 +1,17 @@
+#!/bin/bash
+./blast_out
+ echo "Running ParamSet 1"
+ for i in {1..10}
+ do
+ 		python assign1_part_A.py paramSet1 function_point.csv $i
+ 		echo "."
+ done
+
+ echo "Running ParamSet 2"
+ for i in {1..10}
+ do
+ 		python assign1_part_A.py paramSet2 function_point.csv $i
+ 		echo "."
+ done
+echo "Combining data for analysis"
+./smash_columns

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "train"
+python show_avg.py ./training35/logs/training_seed_1337.csv 91
+python show_avg.py ./training35/logs/training_seed_2018.csv 91
+python show_avg.py ./training35/logs/training_seed_3827.csv 91
+python show_avg.py ./training35/logs/training_seed_4242.csv 91
+python show_avg.py ./training35/logs/training_seed_4545.csv 91
+python show_avg.py ./training35/logs/training_seed_5329.csv 91
+python show_avg.py ./training35/logs/training_seed_6407.csv 91
+python show_avg.py ./training35/logs/training_seed_6774.csv 91
+python show_avg.py ./training35/logs/training_seed_7639.csv 91
+python show_avg.py ./training35/logs/training_seed_9863.csv 91
+
+echo "test"
+python show_avg.py ./training35/logs/testing_seed_1337.csv 170
+python show_avg.py ./training35/logs/testing_seed_2018.csv 170
+python show_avg.py ./training35/logs/testing_seed_3827.csv 170
+python show_avg.py ./training35/logs/testing_seed_4242.csv 170
+python show_avg.py ./training35/logs/testing_seed_4545.csv 170
+python show_avg.py ./training35/logs/testing_seed_5329.csv 170
+python show_avg.py ./training35/logs/testing_seed_6407.csv 170
+python show_avg.py ./training35/logs/testing_seed_6774.csv 170
+python show_avg.py ./training35/logs/testing_seed_7639.csv 170
+python show_avg.py ./training35/logs/testing_seed_9863.csv 170
+

@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Resetting"
+rm ./filter_values/*
+rm ./gp_found/*
+rm ./logs/*
+rm ./training_points/*
+rm ./images/*
+rm ./testing/*
+rm ./confusion/*
